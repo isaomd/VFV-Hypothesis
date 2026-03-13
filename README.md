@@ -42,3 +42,8 @@ Affiliation: Kanagawa Electronics Technology Research Institute (Shindenken)
 ORCID: 0009-0000-5497-0756
 
 Contact: isao1977@gmail.com
+
+
+VFV Hypothesis.
+A proposed physical substrate for qualia located in the ventral floor of the fourth ventricle.
+https://github.com/isaomd/VFV-Hypothesis
